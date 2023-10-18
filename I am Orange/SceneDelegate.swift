@@ -2,8 +2,7 @@
 //  SceneDelegate.swift
 //  I am Orange
 //
-//  Created by Özgün Akbulut on 18.10.2023.
-//
+//  Created by Özgün
 
 import UIKit
 
